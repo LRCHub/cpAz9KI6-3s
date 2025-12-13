@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "君は僕に似ている",
+  "base_artist": "See-Saw",
+  "createdAt": "2025-12-13T07:57:58.175468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君は僕に似ている",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/01_君は僕に似ている_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kimi wa Boku ni Niteiru [君は僕に似ている]",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/02_Kimi_wa_Boku_ni_Niteiru_[君は僕に似ている]_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君は僕に似ている",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/03_君は僕に似ている_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君は僕に似ている [without vocal]",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/04_君は僕に似ている_[without_vocal]_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君は僕に似ている - Kimi wa Boku ni Niteiru",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/05_君は僕に似ている_-_Kimi_wa_Boku_ni_Niteiru_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君は僕に似ている",
+      "artist": "08 See-Saw",
+      "has_synced": true,
+      "path": "select/06_君は僕に似ている_08_See-Saw.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君は僕に似ている",
+      "artist": "See-Saw",
+      "has_synced": false,
+      "path": "select/pl_01_君は僕に似ている_See-Saw.txt"
+    }
+  ]
+}
